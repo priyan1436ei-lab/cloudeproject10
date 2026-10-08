@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.next/
+out/
+dist/
+
+node_modules/
+.env
+.env.local
+.env.*.local
+.firebase/
+firebase-debug.log
+*.log
+
+# build outputs
+coverage/
